@@ -3,6 +3,7 @@ name 'App-ScriptTemplate';
 all_from 'lib/App/ScriptTemplate.pm';
 
 # requires '';
+requires 
 
 tests 't/*.t';
 author_tests 'xt';
